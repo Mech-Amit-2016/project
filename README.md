@@ -22,4 +22,4 @@ this api(localhost:8080/addclient?name=anand&dob=08/08/1993&address=varanasi&con
 this api(localhost:8080/addclaim?description=loss of property&claimdate=24/10/2024&claimstatus=inprogress&policyid=1&claimid=0) is used to add claim regarding your policy
 ![image](https://user-images.githubusercontent.com/118551644/230409248-1643f0f7-2fbd-4d41-bb80-115732e0ff9d.png)
 
-this api() is used to get detailes of claim by a specific claim id.
+this api(localhost:8080/findclaim?claimid=1) is used to get detailes of claim by a specific claim id.
